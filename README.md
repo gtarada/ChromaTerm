@@ -1,15 +1,15 @@
 # ChromaTerm
 
-[![Build status](https://img.shields.io/github/workflow/status/hSaria/ChromaTerm/CI/main)](https://github.com/hSaria/ChromaTerm/actions?query=workflow%3ACI)
-[![Coverage status](https://coveralls.io/repos/github/hSaria/ChromaTerm/badge.svg)](https://coveralls.io/github/hSaria/ChromaTerm)
+[![Build status](https://img.shields.io/github/workflow/status/gtarada/ChromaTerm/CI/main)](https://github.com/gtarada/ChromaTerm/actions?query=workflow%3ACI)
+[![Coverage status](https://coveralls.io/repos/github/gtarada/ChromaTerm/badge.svg)](https://coveralls.io/github/gtarada/ChromaTerm)
 [![Downloads](https://static.pepy.tech/personalized-badge/chromaterm?period=total&units=international_system&left_color=grey&right_color=brightgreen&left_text=downloads)](https://pepy.tech/project/chromaterm)
-[![Maintainability](https://img.shields.io/codeclimate/maintainability/hSaria/ChromaTerm)](https://codeclimate.com/github/hSaria/ChromaTerm)
+[![Maintainability](https://img.shields.io/codeclimate/maintainability/gtarada/ChromaTerm)](https://codeclimate.com/github/gtarada/ChromaTerm)
 [![PyPI version](https://badge.fury.io/py/chromaterm.svg)](https://badge.fury.io/py/chromaterm)
 
 ChromaTerm (`ct`) is a Python script that colors your terminal's output using
 regular expressions. It even works with interactive programs, like SSH.
 
-![alt text](https://github.com/hSaria/ChromaTerm/raw/main/.github/junos-show-interface.png "Example output")
+![alt text](https://github.com/gtarada/ChromaTerm/raw/main/.github/junos-show-interface.png "Example output")
 
 ## Installation
 
@@ -72,7 +72,7 @@ found is used.
 
 If no file is found, a default one is created in your home directory.
 
-> Check out [`contrib/rules`](https://github.com/hSaria/ChromaTerm/tree/main/contrib/rules);
+> Check out [`contrib/rules`](https://github.com/gtarada/ChromaTerm/tree/main/contrib/rules);
 > it has some topic-specific rules that are not included in the defaults.
 
 ### Description
@@ -154,7 +154,7 @@ of their unique features.
 ## Help
 
 If you've got any questions or suggestions, please open up an
-[issue](https://github.com/hSaria/ChromaTerm/issues/new/choose) (always
+[issue](https://github.com/gtarada/ChromaTerm/issues/new/choose) (always
 appreciated).
 
 ### Windows support
