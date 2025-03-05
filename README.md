@@ -2,9 +2,6 @@
 
 [![Build status](https://img.shields.io/github/workflow/status/gtarada/ChromaTerm/CI/main)](https://github.com/gtarada/ChromaTerm/actions?query=workflow%3ACI)
 [![Coverage status](https://coveralls.io/repos/github/gtarada/ChromaTerm/badge.svg)](https://coveralls.io/github/gtarada/ChromaTerm)
-[![Downloads](https://static.pepy.tech/personalized-badge/chromaterm?period=total&units=international_system&left_color=grey&right_color=brightgreen&left_text=downloads)](https://pepy.tech/project/chromaterm)
-[![Maintainability](https://img.shields.io/codeclimate/maintainability/gtarada/ChromaTerm)](https://codeclimate.com/github/gtarada/ChromaTerm)
-[![PyPI version](https://badge.fury.io/py/chromaterm.svg)](https://badge.fury.io/py/chromaterm)
 
 ChromaTerm (`ct`) is a Python script that colors your terminal's output using
 regular expressions. It even works with interactive programs, like SSH.
